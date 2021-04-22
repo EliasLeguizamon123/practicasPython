@@ -1,2 +1,2 @@
-# practicasPython
-Reload of my python practices
+# Practicas-Python
+dumb python edition
